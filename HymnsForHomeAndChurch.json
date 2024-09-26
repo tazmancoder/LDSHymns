@@ -2,105 +2,177 @@
   {
     "title" : "Come, Thou Fount of Every Blessing",
     "category" : "Sabbath and Weekday",
-    "sortOrder" : 1,
-    "number" : "1001",
     "book" : "Hymns—For Home And Church",
-    "id" : "74ADB684-8B91-4173-AAF2-04C818A092EB"
+    "id" : "B648978F-0D62-443F-9449-99814983D6BB",
+    "sortOrder" : 1,
+    "number" : "1001"
   },
   {
     "number" : "1002",
-    "id" : "A88905EA-4BC5-4CEF-AC83-C7C1A8224369",
-    "category" : "Sabbath and Weekday",
     "title" : "When the Savior Comes Again",
+    "sortOrder" : 2,
     "book" : "Hymns—For Home And Church",
-    "sortOrder" : 2
-  },
-  {
-    "id" : "3D7CA870-E587-4FF0-94F4-52ADAC9225AD",
-    "title" : "It Is Well with My Soul",
-    "category" : "Sabbath and Weekday",
-    "book" : "Hymns—For Home And Church",
-    "sortOrder" : 3,
-    "number" : "1003"
-  },
-  {
-    "book" : "Hymns—For Home And Church",
-    "id" : "50CA1A2D-B433-448E-9A9B-6F6CE854353F",
-    "title" : "I Will Walk with Jesus",
-    "number" : "1004",
-    "category" : "Sabbath and Weekday",
-    "sortOrder" : 4
-  },
-  {
-    "title" : "His Eye Is on the Sparrow",
-    "number" : "1005",
-    "category" : "Sabbath and Weekday",
-    "id" : "7A0F800E-550F-40D0-A11C-095ED3569531",
-    "book" : "Hymns—For Home And Church",
-    "sortOrder" : 5
-  },
-  {
-    "sortOrder" : 6,
-    "book" : "Hymns—For Home And Church",
-    "number" : "1006",
-    "title" : "Think a Sacred Song",
-    "id" : "B289007E-E494-4C7B-ACC9-6219DDBAB948",
+    "id" : "A338B760-983F-425C-9083-D7BEAEB693A5",
     "category" : "Sabbath and Weekday"
   },
   {
-    "title" : "As Bread is Broken",
+    "sortOrder" : 3,
+    "book" : "Hymns—For Home And Church",
+    "id" : "3D199B27-0F66-454A-9197-C6DF43917C96",
+    "title" : "It Is Well with My Soul",
+    "category" : "Sabbath and Weekday",
+    "number" : "1003"
+  },
+  {
+    "number" : "1004",
+    "category" : "Sabbath and Weekday",
+    "title" : "I Will Walk with Jesus",
+    "id" : "7E508D18-0AB3-4979-AD7D-05DE8F163214",
+    "book" : "Hymns—For Home And Church",
+    "sortOrder" : 4
+  },
+  {
+    "number" : "1005",
+    "id" : "EA37C6A8-CA9D-4EA6-BA37-55BD4DF91AB7",
+    "title" : "His Eye Is on the Sparrow",
+    "book" : "Hymns—For Home And Church",
+    "category" : "Sabbath and Weekday",
+    "sortOrder" : 5
+  },
+  {
+    "book" : "Hymns—For Home And Church",
+    "id" : "698A2C32-ADB6-4C16-BECB-A009BB1DE3D0",
+    "number" : "1006",
+    "sortOrder" : 6,
+    "title" : "Think a Sacred Song",
+    "category" : "Sabbath and Weekday"
+  },
+  {
+    "book" : "Hymns—For Home And Church",
+    "sortOrder" : 7,
+    "id" : "A4432513-7D98-4C5D-B30A-E8EDD42FE78F",
     "number" : "1007",
-    "id" : "5569564F-9C93-4281-9CEF-4E6CE84000C9",
     "category" : "Sabbath and Weekday",
-    "book" : "Hymns—For Home And Church",
-    "sortOrder" : 7
+    "title" : "As Bread is Broken"
   },
   {
     "book" : "Hymns—For Home And Church",
+    "category" : "Sabbath and Weekday",
+    "id" : "5CA07252-92A0-459F-A072-1B385B540151",
     "title" : "Bread of Life, Living Water",
-    "sortOrder" : 8,
     "number" : "1008",
+    "sortOrder" : 8
+  },
+  {
+    "id" : "DCD12EE7-F8E6-4CF0-8724-854CD17BB930",
     "category" : "Sabbath and Weekday",
-    "id" : "62632D13-6DFE-45FA-85AC-C036CDA6E87C"
+    "title" : "Gethsemane",
+    "number" : "1009",
+    "sortOrder" : 9,
+    "book" : "Hymns—For Home And Church"
+  },
+  {
+    "number" : "1010",
+    "title" : "Amazing Grace",
+    "sortOrder" : 10,
+    "category" : "Sabbath and Weekday",
+    "book" : "Hymns—For Home And Church",
+    "id" : "6951DE45-2B90-4CBA-B6C5-B940F0999783"
+  },
+  {
+    "id" : "2FC7AA40-0BE5-4F78-BF10-2617F5CF4A53",
+    "category" : "Sabbath and Weekday",
+    "book" : "Hymns—For Home And Church",
+    "sortOrder" : 11,
+    "title" : "Holding Hands Around the World",
+    "number" : "1011"
+  },
+  {
+    "sortOrder" : 12,
+    "category" : "Sabbath and Weekday",
+    "number" : "1012",
+    "id" : "32BD34C4-203C-471F-B4E1-72F823B5FE98",
+    "title" : "Anytime, Anywhere",
+    "book" : "Hymns—For Home And Church"
   },
   {
     "book" : "Hymns—For Home And Church",
-    "sortOrder" : 9,
-    "number" : "1009",
-    "category" : "Sabbath and Weekday",
-    "id" : "2FCC4602-6C8D-468A-99B5-957499FCD62F",
-    "title" : "Gethsemane"
+    "sortOrder" : 13,
+    "title" : "God’s Gracious Love",
+    "number" : "1013",
+    "id" : "FC4A3AEF-E52F-49E5-BEC9-E828E3812332",
+    "category" : "Sabbath and Weekday"
   },
   {
+    "category" : "Sabbath and Weekday",
+    "book" : "Hymns—For Home And Church",
+    "sortOrder" : 14,
+    "id" : "0BC789E7-EF05-4C4B-A8A1-FDC848A1E0B7",
+    "number" : "1014",
+    "title" : "My Shepherd Will Supply My Need"
+  },
+  {
+    "title" : "Oh, the Deep, Deep Love of Jesus",
+    "number" : "1015",
+    "id" : "DF580D83-E445-476E-A361-EC397B79B84B",
+    "category" : "Sabbath and Weekday",
+    "sortOrder" : 15,
+    "book" : "Hymns—For Home And Church"
+  },
+  {
+    "number" : "1016",
+    "book" : "Hymns—For Home And Church",
+    "id" : "01269648-17A3-4687-836C-4D05E4022EEF",
+    "title" : "Behold the Wounds in Jesus’ Hands",
+    "category" : "Sabbath and Weekday",
+    "sortOrder" : 16
+  },
+  {
+    "number" : "1017",
+    "category" : "Sabbath and Weekday",
+    "book" : "Hymns—For Home And Church",
+    "sortOrder" : 17,
+    "title" : "This is the Christ",
+    "id" : "613EEF06-F71E-4EBE-838C-F29FB8543815"
+  },
+  {
+    "sortOrder" : 18,
+    "id" : "132D0A3A-85B1-4365-BDD7-D008AE5AC515",
+    "title" : "Come, Lord Jesus",
+    "category" : "Sabbath and Weekday",
+    "number" : "1018",
+    "book" : "Hymns—For Home And Church"
+  },
+  {
+    "sortOrder" : 19,
     "number" : "1201",
-    "category" : "Easter and Christmas",
     "title" : "Hail the Day that Sees Him Rise",
-    "id" : "C1C39962-62AD-4E11-9487-8A8A82E8FBE9",
-    "sortOrder" : 10,
+    "book" : "Hymns—For Home And Church",
+    "id" : "FD44B786-BE12-4EBA-A12C-27D30225F6D2",
+    "category" : "Easter and Christmas"
+  },
+  {
+    "title" : "He Is Born, the Divine Christ Child",
+    "sortOrder" : 20,
+    "number" : "1202",
+    "category" : "Easter and Christmas",
+    "id" : "17977FE3-616C-40DC-9FA4-833503661705",
     "book" : "Hymns—For Home And Church"
   },
   {
     "category" : "Easter and Christmas",
-    "number" : "1202",
-    "book" : "Hymns—For Home And Church",
-    "sortOrder" : 11,
-    "title" : "He Is Born, the Divine Christ Child",
-    "id" : "D4EF0B80-EC2E-4ACF-997E-30BE9B76A53D"
-  },
-  {
-    "title" : "What Child Is This?",
-    "category" : "Easter and Christmas",
-    "book" : "Hymns—For Home And Church",
-    "id" : "38692295-B917-4EFB-A3A0-B4FAB840D66A",
+    "sortOrder" : 21,
     "number" : "1203",
-    "sortOrder" : 12
+    "book" : "Hymns—For Home And Church",
+    "id" : "A26124F7-C2EA-4DD3-9F32-98F17647EE4E",
+    "title" : "What Child Is This?"
   },
   {
     "title" : "Star Bright",
-    "number" : "1204",
-    "id" : "34450FA3-DE41-48B2-ABBC-7351E41088A5",
-    "sortOrder" : 13,
     "category" : "Easter and Christmas",
-    "book" : "Hymns—For Home And Church"
+    "book" : "Hymns—For Home And Church",
+    "sortOrder" : 22,
+    "id" : "D92603AE-F97D-47BC-AAA1-6DBC4FE3B024",
+    "number" : "1204"
   }
 ]
